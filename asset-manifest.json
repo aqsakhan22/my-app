@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aqsakhan22/my-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/aqsakhan22/my-app/static/js/main.6bc689e0.chunk.js",
+    "main.js.map": "/aqsakhan22/my-app/static/js/main.6bc689e0.chunk.js.map",
+    "runtime-main.js": "/aqsakhan22/my-app/static/js/runtime-main.fb793e30.js",
+    "runtime-main.js.map": "/aqsakhan22/my-app/static/js/runtime-main.fb793e30.js.map",
+    "static/js/2.8833cd6e.chunk.js": "/aqsakhan22/my-app/static/js/2.8833cd6e.chunk.js",
+    "static/js/2.8833cd6e.chunk.js.map": "/aqsakhan22/my-app/static/js/2.8833cd6e.chunk.js.map",
+    "static/js/3.ff0311e9.chunk.js": "/aqsakhan22/my-app/static/js/3.ff0311e9.chunk.js",
+    "static/js/3.ff0311e9.chunk.js.map": "/aqsakhan22/my-app/static/js/3.ff0311e9.chunk.js.map",
+    "index.html": "/aqsakhan22/my-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/aqsakhan22/my-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/aqsakhan22/my-app/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aqsakhan22/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb793e30.js",
+    "static/js/2.8833cd6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6bc689e0.chunk.js"
+  ]
+}
